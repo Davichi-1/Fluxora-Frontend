@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1967-cover-the-states-of-embedwidgetlayouts",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1967-cover-the-states-of-embedwidgetlayouts": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1967-cover-the-states-of-embedwidgetlayouts",
+    "origin"
+  ]
+}
